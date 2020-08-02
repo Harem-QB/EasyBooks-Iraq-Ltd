@@ -1,0 +1,4 @@
+[submodule "Harem-QB/EasyBooks-Iraq-Ltd"]
+	path = Harem-QB/EasyBooks-Iraq-Ltd
+	url = git@github.com:Harem-QB/EasyBooks-Iraq-Ltd.git
+	branch = master
